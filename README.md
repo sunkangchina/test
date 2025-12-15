@@ -1,8 +1,14 @@
-<span style="color:red">这是红色文字</span>
-<span style="color:#ff0000">十六进制红色</span>
-<span style="color:rgb(255,0,0)">RGB 红色</span>
+> [!NOTE]
+> 这是提示信息
 
-示例：
-- <span style="color:red">❌ 错误：操作失败</span>
-- <span style="color:red">⚠️ 警告：文件过大</span>
-- <span style="color:red">重要：请立即处理</span>
+> [!TIP]
+> 这是技巧提示
+
+> [!IMPORTANT]
+> 这是重要信息
+
+> [!WARNING]
+> 这是警告信息
+
+> [!CAUTION]
+> 这是危险警告
