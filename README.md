@@ -12,9 +12,4 @@
 
 > [!CAUTION]
 > 这是危险警告
-
-
-`bug` `enhancement` `good first issue`  <!-- GitHub 会自动着色 -->
-
-或者使用具体的标签语法：
-- `high priority` `critical` `urgent` <!-- 红色标签 -->
+ 
